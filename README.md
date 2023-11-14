@@ -10,3 +10,8 @@ This repository contains all of the notes taken by Tandra for the Lighthouse Lab
 To view my profile, [Tandra](https://github.com/TandsPM).
 
 If you are interested in the program, [Lighthoue Labs](https://www.lighthouselabs.ca/).
+
+
+## Table of Contents
+* [Week 1](/Week_1)
+  * [Day 1](/Week_1/Day_1)
